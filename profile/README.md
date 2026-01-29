@@ -24,6 +24,8 @@ An intelligent learning platform that uses machine learning to analyze user pref
 **Tech Stack:**
 Python · TensorFlow · Flask · Google Cloud
 
+---
+
 ### 🧠 MentalMate v1
 
 **AI Mental Health Assistant**
@@ -33,6 +35,8 @@ A generative AI-powered mental health platform providing emotional support, mood
 
 **Tech Stack:**
 Python · Generative AI · Flask · Microsoft Azure
+
+---
 
 ### 🌱 MentyMate v2
 
@@ -44,6 +48,8 @@ An upgraded mental health platform featuring interactive tools, progress trackin
 **Tech Stack:**
 React · TypeScript · Python · Google Cloud
 
+---
+
 ### ⚡ EnergyMate
 
 **Smart Energy Management System**
@@ -53,6 +59,8 @@ An intelligent energy monitoring system that predicts consumption patterns and p
 
 **Tech Stack:**
 Python · TensorFlow · Time Series Analysis · Flask
+
+---
 
 ### 📚 EduMate
 
@@ -64,6 +72,8 @@ A comprehensive education platform combining interactive learning, intelligent m
 **Tech Stack:**
 Next.js · React · Express · MongoDB
 
+---
+
 ### 🔍 CheckMate
 
 **AI-Powered Product Insights Platform**
@@ -74,27 +84,33 @@ An AI-powered platform for product analysis, quality assessment, and compliance 
 **Tech Stack:**
 Python · Generative AI · TensorFlow · Google Cloud
 
+---
+
 ### 🌍 XportMate
 
-**Digital Export Platform** *(Beta)*
+**Digital Export Platform**
 
 A platform supporting digital export initiatives with market analysis tools, trade documentation support, and secure payment integration.
 
 **Tech Stack:**
 React · Node.js · Express · MongoDB
 
+---
+
 ### 🎨 EkrafMate
 
-**Creative Talent Platform** *(Beta)*
+**Creative Talent Platform**
 
 An innovative platform connecting creative talents with business opportunities through portfolio showcasing and collaboration tools.
 
 **Tech Stack:**
 React · TypeScript · Node.js · PostgreSQL
 
+---
+
 ### 🤝 CoMate
 
-**Collaborative AI Platform** *(Coming Soon)*
+**Collaborative AI Platform**
 🚀 Top 50 (Rank 22) Meta Llama Project Incubator
 
 A collaborative platform leveraging Meta’s Llama AI technology to enable next-generation teamwork experiences.
@@ -110,30 +126,34 @@ All MateGroup products are designed to be interoperable through our centralized 
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 
-**Frontend**
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+### Frontend
 
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
 
-**Authentication & Security**
-- JWT
-- OAuth 2.0 (planned)
-- Role & Subscription-based Access Control
+### Backend
 
-**Cloud & Infrastructure**
-- Vercel
-- Supabase
-- MongoDB Atlas
-- GitHub Actions (CI/CD)
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+
+### Authentication & Security
+
+* JWT
+* OAuth 2.0 (Planned)
+* Role & Subscription-based Access Control
+
+### Cloud & Infrastructure
+
+* Vercel
+* Supabase
+* MongoDB Atlas
+* GitHub Actions (CI/CD)
 
 ---
 
@@ -145,12 +165,12 @@ To become a trusted digital partner by providing reliable, scalable, and accessi
 
 ## 🗺 Roadmap
 
-- ✅ Landing Page
-- ✅ SSO System (Core)
-- 🔄 SaaS Integrations
-- 🔄 Subscription & Billing System
-- 🔄 Mobile Optimization
-- ⏳ Public API
+* ✅ Landing Page
+* ✅ SSO System (Core)
+* 🔄 SaaS Integrations
+* 🔄 Subscription & Billing System
+* 🔄 Mobile Optimization
+* ⏳ Public API
 
 ---
 
@@ -164,10 +184,11 @@ If you're interested in contributing, partnering, or collaborating with MateGrou
 
 ## 📬 Contact & Social
 
-📧 Email: support@mategroup.id  
-🌐 Website: https://mategroup.id  
-📱 Instagram: @MateGroup.id  
-💼 LinkedIn: MateGroup.id
+* 📧 Email: [support@mategroup.id](mailto:support@mategroup.id)
+* 🌐 Website: [https://mategroup.id](https://mategroup.id)
+* 📱 Instagram: [MateGroup.id](https://instagram.com/MateGroup.id)
+* 💼 LinkedIn: [MateGroup.id](https://linkedin.com/company/mategroup-id)
+* 📘 Facebook: [MateGroup.id](https://web.facebook.com/p/MateGroupid-61587349823694)
 
 ---
 
