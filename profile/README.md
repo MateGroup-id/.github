@@ -17,7 +17,8 @@ We aim to simplify workflows, improve productivity, and support digital transfor
 ### 🎓 CourseMate
 
 **AI-Powered Course Recommendation Platform**
-🏆 Top 5 Bangkit Academy 2024 Capstone
+
+*🏆 Top 5 Bangkit Academy 2024 Capstone*
 
 An intelligent learning platform that uses machine learning to analyze user preferences and deliver personalized educational content recommendations.
 
@@ -29,7 +30,8 @@ Python · TensorFlow · Flask · Google Cloud
 ### 🧠 MentalMate v1
 
 **AI Mental Health Assistant**
-🥇 Microsoft Online Hackathon 2025 Winner
+
+*🥇 Microsoft Online Hackathon 2025 Winner*
 
 A generative AI-powered mental health platform providing emotional support, mood tracking, and advanced wellness recommendations.
 
@@ -41,7 +43,8 @@ Python · Generative AI · Flask · Microsoft Azure
 ### 🌱 MentyMate v2
 
 **Enhanced Mental Wellness Platform**
-🏅 Top 30 Yayasan Peduli BUMN Hackathon
+
+*🏅 Top 30 Yayasan Peduli BUMN Hackathon*
 
 An upgraded mental health platform featuring interactive tools, progress tracking, community support, and professional resource integration.
 
@@ -53,7 +56,8 @@ React · TypeScript · Python · Google Cloud
 ### ⚡ EnergyMate
 
 **Smart Energy Management System**
-⭐ Scored 94/100 – Laskar AI 2025
+
+*⭐ Scored 94/100 – Laskar AI 2025*
 
 An intelligent energy monitoring system that predicts consumption patterns and provides optimization recommendations to reduce operational costs.
 
@@ -65,7 +69,8 @@ Python · TensorFlow · Time Series Analysis · Flask
 ### 📚 EduMate
 
 **Interactive Learning & Monitoring Platform**
-🏆 IDCamp Developer Challenge #2 Winner
+
+*🏆 IDCamp Developer Challenge #2 Winner*
 
 A comprehensive education platform combining interactive learning, intelligent monitoring, and adaptive learning paths.
 
@@ -77,7 +82,8 @@ Next.js · React · Express · MongoDB
 ### 🔍 CheckMate
 
 **AI-Powered Product Insights Platform**
-🎯 Top 20 Hackinfest Sucofindo 2025
+
+*🎯 Top 20 Hackinfest Sucofindo 2025*
 
 An AI-powered platform for product analysis, quality assessment, and compliance checking with in-depth analytics.
 
@@ -111,7 +117,8 @@ React · TypeScript · Node.js · PostgreSQL
 ### 🤝 CoMate
 
 **Collaborative AI Platform**
-🚀 Top 50 (Rank 22) Meta Llama Project Incubator
+
+*🚀 Top 50 (Rank 22) Meta Llama Project Incubator*
 
 A collaborative platform leveraging Meta’s Llama AI technology to enable next-generation teamwork experiences.
 
