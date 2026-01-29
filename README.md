@@ -24,8 +24,6 @@ An intelligent learning platform that uses machine learning to analyze user pref
 **Tech Stack:**
 Python · TensorFlow · Flask · Google Cloud
 
----
-
 ### 🧠 MentalMate v1
 
 **AI Mental Health Assistant**
@@ -35,8 +33,6 @@ A generative AI-powered mental health platform providing emotional support, mood
 
 **Tech Stack:**
 Python · Generative AI · Flask · Microsoft Azure
-
----
 
 ### 🌱 MentyMate v2
 
@@ -48,8 +44,6 @@ An upgraded mental health platform featuring interactive tools, progress trackin
 **Tech Stack:**
 React · TypeScript · Python · Google Cloud
 
----
-
 ### ⚡ EnergyMate
 
 **Smart Energy Management System**
@@ -59,8 +53,6 @@ An intelligent energy monitoring system that predicts consumption patterns and p
 
 **Tech Stack:**
 Python · TensorFlow · Time Series Analysis · Flask
-
----
 
 ### 📚 EduMate
 
@@ -72,8 +64,6 @@ A comprehensive education platform combining interactive learning, intelligent m
 **Tech Stack:**
 Next.js · React · Express · MongoDB
 
----
-
 ### 🔍 CheckMate
 
 **AI-Powered Product Insights Platform**
@@ -84,8 +74,6 @@ An AI-powered platform for product analysis, quality assessment, and compliance 
 **Tech Stack:**
 Python · Generative AI · TensorFlow · Google Cloud
 
----
-
 ### 🌍 XportMate
 
 **Digital Export Platform** *(Beta)*
@@ -95,8 +83,6 @@ A platform supporting digital export initiatives with market analysis tools, tra
 **Tech Stack:**
 React · Node.js · Express · MongoDB
 
----
-
 ### 🎨 EkrafMate
 
 **Creative Talent Platform** *(Beta)*
@@ -105,8 +91,6 @@ An innovative platform connecting creative talents with business opportunities t
 
 **Tech Stack:**
 React · TypeScript · Node.js · PostgreSQL
-
----
 
 ### 🤝 CoMate
 
@@ -180,10 +164,10 @@ If you're interested in contributing, partnering, or collaborating with MateGrou
 
 ## 📬 Contact & Social
 
-📧 Email: hello@mategroup.id  
+📧 Email: support@mategroup.id  
 🌐 Website: https://mategroup.id  
 📱 Instagram: @MateGroup.id  
-💼 LinkedIn: Coming Soon
+💼 LinkedIn: MateGroup.id
 
 ---
 
